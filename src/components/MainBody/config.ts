@@ -1,0 +1,1 @@
+export const TIMEOUT_FOR_SHUFFLE_IMAGES = 31200;
